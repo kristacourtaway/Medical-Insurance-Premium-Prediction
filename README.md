@@ -1,4 +1,4 @@
-## Medical-Insurance-Premium-Prediction-Python
+## Medical-Insurance-Premium-Prediction-Python-Code
 
 The provided code undertakes a comprehensive regression analysis on the insurance.csv dataset. The goal is to predict insurance charges based on several independent variables.
 
