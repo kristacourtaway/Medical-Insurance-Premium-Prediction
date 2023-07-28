@@ -1,4 +1,4 @@
-The provided code undertakes a comprehensive regression analysis on an insurance dataset. The goal is to predict insurance charges based on several independent variables.
+The provided code undertakes a comprehensive regression analysis on the "insurance" dataset. The goal is to predict insurance charges based on several independent variables.
 
 Correlation Analysis:
 The first segment of the code assesses the correlation of each independent variable with the target variable, 'charges'. Two visualization techniques are employed:
