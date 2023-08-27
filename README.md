@@ -1,4 +1,4 @@
-## Medical-Insurance-Premium-Prediction-Python-Code
+# Medical Insurance Premium Prediction
 
 The Python code demonstrates a data science project that utilizes machine learning techniques to predict insurance charges. It starts by importing crucial libraries, including NumPy, Pandas, Matplotlib, Seaborn, and modules from the sci-kit-learn package. The dataset originates from a CSV file named 'insurance.csv.'
 
